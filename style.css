@@ -1,91 +1,168 @@
-body{
-    margin: 0;
-    padding: 0;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
-body a{
-    text-decoration: none;
+body a {
+  text-decoration: none;
 }
-@media screen and (max-width:1537px) {
-    .navbar{
-        display: flex;
-        justify-content: center;
-        width: 1527px;
-        height: 50px;
-        background-color: whitesmoke;
-        /* margin-left: 10px; */
-    }
-    .opt {
-        margin-left: -70px;
-        margin-top: 0px;
-    }
-    .logo {
-        margin-left: 20px;
-        margin-top: 0px;
-        margin-right: 120px;
-    }
-    .navbars {
-        list-style: none;
-        display: flex;
-        /* justify-content: center; */
-        margin-left: -73px;
-        margin-right: -150px;
-        margin-top: 0px;
-        font-size: 16px;
-    }
-    .s1 {
-        margin-left: 178px;
-        margin-top: -30px;
-        width: 500px;
-    }
-    .navbars p{
-        color: black;
-    }
-    .navbars p:hover{
-        text-decoration: underline;
-    }
-    li {
-        margin-left: 60px;
-    }
-    .searchbar {
-        width: 300px;
-        height: 30px;
-        margin-left: 40px;
-        margin-top: 38px;
-    }
-    .opt1{
-        width: 30px;
-        height: 30px;
-        margin-left: 10px;
-        margin-top: 10px;
-    }
-    .logo1{
-        width: 30px;
-        height: 30px;
-        margin-left: 10px;
-        margin-top: 10px;
-    }
-    .title1 {
-        font-size: 20px;
-        margin-left: 50px;
-        margin-top: -33px;
-        color: black;
-    }
-    .last1 {
-        margin-left: 350px;
-        margin-top: -63px;
-        width: 150px;
-    }
-    .searchs {
-        margin-top: 32px;
-        margin-left: 0px;
-        width: 25px;
-        height: 25px;
-    }
-    .cartlogo {
-        margin-top: 30px;
-        margin-left: 50px;
-        width: 25px;
-        height: 25px;
-    }    
+@media screen and (max-width: 1537px) {
+  .navbar {
+    display: flex;
+    justify-content: center;
+    width: 1527px;
+    height: 50px;
+    background-color: whitesmoke;
+    /* margin-left: 10px; */
+  }
+  .opt {
+    margin-left: -70px;
+    margin-top: 0px;
+  }
+  .logo {
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-right: 120px;
+  }
+  .navbars {
+    list-style: none;
+    display: flex;
+    /* justify-content: center; */
+    margin-left: -73px;
+    margin-right: -150px;
+    margin-top: 0px;
+    font-size: 16px;
+  }
+  .s1 {
+    margin-left: 178px;
+    margin-top: -30px;
+    width: 500px;
+  }
+  .navbars p {
+    color: black;
+  }
+  .navbars p:hover {
+    text-decoration: underline;
+  }
+  li {
+    margin-left: 60px;
+  }
+  .searchbar {
+    width: 300px;
+    height: 30px;
+    margin-left: 40px;
+    margin-top: 38px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+      sans-serif;
+    color: grey;
+  }
+  .opt1 {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .logo1 {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .title1 {
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: -33px;
+    color: black;
+  }
+  .last1 {
+    margin-left: 350px;
+    margin-top: -63px;
+    width: 150px;
+  }
+  .searchs {
+    margin-top: 32px;
+    margin-left: -40px;
+    width: 25px;
+    height: 25px;
+  }
+  .cartlogo {
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 25px;
+    height: 25px;
+  }
 }
+.casual{
+  width: 1537px;
+  height: 748px;
+  background-color: #A48374;
+}
+.shirt {
+  box-sizing: border-box;
+  border: 1px solid;
+  width: 245px;
+  height: 295px;
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: #D1C7BD;
+}
+.sh1 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 224px;
+  height: 208px;
+}
+.collect{
+  color: #3A2D28;
+}
+.shirt2 {
+  box-sizing: border-box;
+  border: 1px solid;
+  width: 245px;
+  height: 295px;
+  margin-top: -296px;
+  margin-left: 267px;
+  background-color: #D1C7BD;
+}
+.sh2 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 224px;
+  height: 208px;
+}
+.shirt3 {
+  box-sizing: border-box;
+  border: 1px solid;
+  width: 245px;
+  height: 295px;
+  margin-top: -294px;
+  margin-left: 526px;
+  background-color: #D1C7BD;
+}
+.sh3 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 224px;
+  height: 208px;
+}
+.shirt4 {
+  box-sizing: border-box;
+  border: 1px solid;
+  width: 245px;
+  height: 295px;
+  margin-top: -295px;
+  margin-left: 784px;
+  background-color: #D1C7BD;
+}
+.sh4 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 224px;
+  height: 208px;
+}
+
