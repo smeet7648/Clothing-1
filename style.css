@@ -4,52 +4,64 @@ body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
+
 body a {
   text-decoration: none;
 }
+
 @media screen and (max-width: 1537px) {
   .navbar {
     display: flex;
     justify-content: center;
     width: 1519px;
-    height: 50px;
+    height: 70px;
     background-color: whitesmoke;
     /* margin-left: 10px; */
     position: sticky;
     top: 0;
   }
+
   .opt {
     margin-left: -70px;
-    margin-top: 0px;
+    margin-top: 10px;
   }
+
   .logo {
     margin-left: 20px;
-    margin-top: 0px;
+    margin-top: 10px;
     margin-right: 120px;
   }
+
   .navbars {
     list-style: none;
     display: flex;
     /* justify-content: center; */
     margin-left: -73px;
     margin-right: -150px;
-    margin-top: 0px;
-    font-size: 16px;
+    margin-top: 6px;
+    font-size: 18px;
+    width: 610px;
   }
+
   .s1 {
     margin-left: 178px;
-    margin-top: -30px;
+    margin-top: -20px;
     width: 500px;
+    padding-left: 0px;
   }
+
   .navbars p {
     color: black;
   }
+
   .navbars p:hover {
     text-decoration: underline;
   }
+
   li {
     margin-left: 60px;
   }
+
   .searchbar {
     width: 300px;
     height: 30px;
@@ -58,45 +70,54 @@ body a {
     border-top: none;
     border-right: none;
     border-left: none;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
-      sans-serif;
     color: grey;
     background-color: whitesmoke;
     font-size: 16px;
   }
+
   .searchbar:focus {
     outline: none;
   }
+
+  .searchbar:placeholder-shown {
+    padding-left: 10px;
+  }
+
   .opt1 {
     width: 30px;
     height: 30px;
     margin-left: 10px;
     margin-top: 10px;
+    cursor: pointer;
   }
+
   .logo1 {
     width: 30px;
     height: 30px;
     margin-left: 10px;
     margin-top: 10px;
   }
+
   .title1 {
     font-size: 20px;
     margin-left: 50px;
     margin-top: -33px;
     color: black;
   }
+
   .last1 {
     margin-left: 350px;
     margin-top: -63px;
     width: 150px;
   }
+
   .searchs {
     margin-top: 32px;
     margin-left: -40px;
     width: 25px;
     height: 25px;
   }
+
   .cartlogo {
     margin-top: 30px;
     margin-left: 50px;
@@ -107,68 +128,105 @@ body a {
   .casual {
     width: 1519px;
     height: 748px;
-    background-color: whitesmoke;
+    background-color: white;
     margin-top: -21px;
   }
-  .shirt {
-    box-sizing: border-box;
-    border: 0px solid;
-    width: 245px;
-    height: 295px;
-    margin-top: 10px;
-    margin-left: 92px;
-    background-color: white;
+
+  .open {
+    margin-left: 100px;
+    margin-top: -20px;
+    font-size: 20px;
   }
-  .sh1 {
-    margin-top: 10px;
-    margin-left: 10px;
-    width: 224px;
-    height: 208px;
+
+  .collect {
+    margin-left: 100px;
+    padding-top: 30px;
+    font-size: 30px;
+  }
+
+  .shirt {
+    width: 295px;
+    height: 455px;
+    margin-top: 40px;
+    margin-left: 92px;
+    border: 7px solid whitesmoke;
+    border-radius: 10px;
   }
 
   .shirt2 {
-    box-sizing: border-box;
-    border: 0px solid;
-    width: 245px;
-    height: 295px;
-    margin-top: -296px;
-    margin-left: 433px;
-    background-color: white;
+    width: 295px;
+    height: 455px;
+    margin-top: -468px;
+    margin-left: 432px;
+    border: 7px solid whitesmoke;
+    border-radius: 10px;
   }
+
+  .shirt3 {
+    width: 295px;
+    height: 455px;
+    margin-top: -468px;
+    margin-left: 772px;
+    border: 7px solid whitesmoke;
+    border-radius: 10px;
+  }
+
+  .shirt4 {
+    width: 295px;
+    height: 455px;
+    margin-top: -468px;
+    margin-left: 1112px;
+    border: 7px solid whitesmoke;
+    border-radius: 10px;
+  }
+
+  .sh1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 277px;
+    height: 278px;
+  }
+
   .sh2 {
     margin-top: 10px;
     margin-left: 10px;
-    width: 224px;
-    height: 208px;
+    width: 277px;
+    height: 278px;
   }
-  .shirt3 {
-    box-sizing: border-box;
-    border: 0px solid;
-    width: 245px;
-    height: 295px;
-    margin-top: -294px;
-    margin-left: 787px;
-    background-color: white;
-}
+
   .sh3 {
     margin-top: 10px;
     margin-left: 10px;
-    width: 224px;
-    height: 208px;
+    width: 277px;
+    height: 278px;
   }
-  .shirt4 {
-    box-sizing: border-box;
-    border: 0px solid;
-    width: 245px;
-    height: 295px;
-    margin-top: -295px;
-    margin-left: 1157px;
-    background-color: white;
-  }
+
   .sh4 {
     margin-top: 10px;
     margin-left: 10px;
-    width: 224px;
-    height: 208px;
+    width: 277px;
+    height: 278px;
+  }
+  .tit1 {
+    margin-left: 10px;
+    margin-top: 0px;
+    font-size: 25px;
+    color: black;
+}
+.info1 {
+    margin-left: 10px;
+    margin-top: -20px;
+    font-size: 15px;
+}
+.pr1 {
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: -20px;
+}
+  .lt1{
+    text-decoration: line-through;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
   }
 }
