@@ -239,4 +239,72 @@ body a {
     height: 31px;
     cursor: pointer;
 }
+.diwali {
+  width: 1519px;
+  height: 748px;
+  background-color: white;
+  margin-top: -21px;
+}
+.kurta {
+  width: 295px;
+  height: 455px;
+  margin-top: 0px;
+  margin-left: 92px;
+  border: 7px solid whitesmoke;
+  border-radius: 10px;
+}
+.kurta2 {
+  width: 295px;
+  height: 455px;
+  margin-top: -469px;
+  margin-left: 433px;
+  border: 7px solid whitesmoke;
+  border-radius: 10px;
+}
+.kurta3 {
+  width: 295px;
+  height: 455px;
+  margin-top: -469px;
+  margin-left: 773px;
+  border: 7px solid whitesmoke;
+  border-radius: 10px;
+}
+.kurta4 {
+  width: 295px;
+  height: 455px;
+  margin-top: -469px;
+  margin-left: 1111px;
+  border: 7px solid whitesmoke;
+  border-radius: 10px;
+}
+.kt1 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 277px;
+  height: 278px;
+}
+.titl1 {
+  margin-left: 10px;
+  margin-top: 0px;
+  font-size: 25px;
+  color: black;
+}
+.infos1 {
+  margin-left: 10px;
+  margin-top: -20px;
+  font-size: 15px;
+}
+.prs1 {
+  font-size: 25px;
+  margin-left: 10px;
+  margin-top: -20px;
+}
+.lts1{
+  text-decoration: line-through;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+
 }
