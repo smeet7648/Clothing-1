@@ -11,10 +11,12 @@ body a {
   .navbar {
     display: flex;
     justify-content: center;
-    width: 1527px;
+    width: 1519px;
     height: 50px;
     background-color: whitesmoke;
     /* margin-left: 10px; */
+    position: sticky;
+    top: 0;
   }
   .opt {
     margin-left: -70px;
@@ -60,6 +62,11 @@ body a {
       Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
       sans-serif;
     color: grey;
+    background-color: whitesmoke;
+    font-size: 16px;
+  }
+  .searchbar:focus {
+    outline: none;
   }
   .opt1 {
     width: 30px;
@@ -96,73 +103,72 @@ body a {
     width: 25px;
     height: 25px;
   }
-}
-.casual{
-  width: 1537px;
-  height: 748px;
-  background-color: #A48374;
-}
-.shirt {
-  box-sizing: border-box;
-  border: 1px solid;
-  width: 245px;
-  height: 295px;
-  margin-top: 10px;
-  margin-left: 10px;
-  background-color: #D1C7BD;
-}
-.sh1 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 224px;
-  height: 208px;
-}
-.collect{
-  color: #3A2D28;
-}
-.shirt2 {
-  box-sizing: border-box;
-  border: 1px solid;
-  width: 245px;
-  height: 295px;
-  margin-top: -296px;
-  margin-left: 267px;
-  background-color: #D1C7BD;
-}
-.sh2 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 224px;
-  height: 208px;
-}
-.shirt3 {
-  box-sizing: border-box;
-  border: 1px solid;
-  width: 245px;
-  height: 295px;
-  margin-top: -294px;
-  margin-left: 526px;
-  background-color: #D1C7BD;
-}
-.sh3 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 224px;
-  height: 208px;
-}
-.shirt4 {
-  box-sizing: border-box;
-  border: 1px solid;
-  width: 245px;
-  height: 295px;
-  margin-top: -295px;
-  margin-left: 784px;
-  background-color: #D1C7BD;
-}
-.sh4 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 224px;
-  height: 208px;
-}
 
+  .casual {
+    width: 1519px;
+    height: 748px;
+    background-color: whitesmoke;
+    margin-top: -21px;
+  }
+  .shirt {
+    box-sizing: border-box;
+    border: 0px solid;
+    width: 245px;
+    height: 295px;
+    margin-top: 10px;
+    margin-left: 92px;
+    background-color: white;
+  }
+  .sh1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 224px;
+    height: 208px;
+  }
+
+  .shirt2 {
+    box-sizing: border-box;
+    border: 0px solid;
+    width: 245px;
+    height: 295px;
+    margin-top: -296px;
+    margin-left: 433px;
+    background-color: white;
+  }
+  .sh2 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 224px;
+    height: 208px;
+  }
+  .shirt3 {
+    box-sizing: border-box;
+    border: 0px solid;
+    width: 245px;
+    height: 295px;
+    margin-top: -294px;
+    margin-left: 787px;
+    background-color: white;
+}
+  .sh3 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 224px;
+    height: 208px;
+  }
+  .shirt4 {
+    box-sizing: border-box;
+    border: 0px solid;
+    width: 245px;
+    height: 295px;
+    margin-top: -295px;
+    margin-left: 1157px;
+    background-color: white;
+  }
+  .sh4 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 224px;
+    height: 208px;
+  }
+}
