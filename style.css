@@ -3,6 +3,7 @@ body {
   padding: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  overflow-x: hidden;
 }
 
 body a {
@@ -160,6 +161,7 @@ body a {
     margin-left: 92px;
     border: 7px solid #f8f8f8;
     border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
   .shirt2 {
@@ -169,6 +171,7 @@ body a {
     margin-left: 432px;
     border: 7px solid #f8f8f8;
     border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
   .shirt3 {
@@ -178,6 +181,7 @@ body a {
     margin-left: 772px;
     border: 7px solid #f8f8f8;
     border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
   .shirt4 {
@@ -187,6 +191,7 @@ body a {
     margin-left: 1112px;
     border: 7px solid #f8f8f8;
     border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
   .sh1 {
@@ -289,7 +294,7 @@ body a {
 
   .info1 {
     margin-left: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 18px;
     margin-bottom: 0px;
   }
@@ -308,6 +313,7 @@ body a {
     margin-left: 92px;
     border: 7px solid #f8f8f8;
     border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
   .kurta2 {
@@ -317,6 +323,7 @@ body a {
     margin-left: 433px;
     border: 7px solid #f8f8f8;
     border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
   .kurta3 {
@@ -326,6 +333,7 @@ body a {
     margin-left: 773px;
     border: 7px solid #f8f8f8;
     border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
   .kurta4 {
@@ -335,6 +343,7 @@ body a {
     margin-left: 1111px;
     border: 7px solid #f8f8f8;
     border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
   .kt1 {
@@ -361,7 +370,7 @@ body a {
 
   .infos1 {
     margin-left: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 18px;
     margin-bottom: 0px;
   }
@@ -388,10 +397,11 @@ body a {
     width: 250px;
     height: 518px;
     margin-left: 0px;
-    margin-top: -8px;
+    margin-top: 0px;
     background-color: whitesmoke;
     display: none;
     position: absolute;
+    z-index: 1;
   }
 
   .list p:hover {
@@ -509,5 +519,63 @@ body a {
     margin-left: 20px;
     margin-top: -15px;
     color: black;
+  }
+
+  .f4 {
+    display: flex;
+    margin-top: 0px;
+    margin-left: 0px;
+    animation: slide 12s infinite;
+    /* position: relative; */
+  }
+
+  .ps1 {
+    width: 1519px;
+    height: 620px;
+    margin-left: 0px;
+    display: block;
+  }
+
+  .ps2 {
+    width: 1519px;
+    height: 620px;
+    margin-left: 0px;
+    /* display: none; */
+  }
+
+  .ps3 {
+    width: 1519px;
+    height: 620px;
+    margin-left: 0px;
+    /* display: none; */
+  }
+
+  .ps4 {
+    width: 1519px;
+    height: 620px;
+    margin-left: 0px;
+    /* display: none; */
+  }
+
+  @keyframes slide {
+    0% {
+      transform: translateX(0);
+    }
+
+    25% {
+      transform: translateX(-100%);
+    }
+
+    50% {
+      transform: translateX(-200%);
+    }
+
+    75% {
+      transform: translateX(-300%);
+    }
+
+    100% {
+      transform: translateX(0);
+    }
   }
 }
