@@ -407,6 +407,79 @@ body a {
   .list p:hover {
     text-decoration: underline;
   }
+  .home {
+    width: 1519px;
+    height: 518px;
+    background-color: white;
+    margin-top: -21px;
+  }
+  .tshirt {
+    width: 295px;
+    height: 295px;
+    margin-top: 0px;
+    margin-left: 92px;
+    border: 7px solid #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
+  }
+  .kts1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 277px;
+    height: 278px;
+  }
+  .infs1 {
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-bottom: 0px;
+  }
+  .prss1 {
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: -10px;
+    margin-bottom: 0px;
+    color: #000000;
+    font-weight: 600;
+  }
+  .ltss1 {
+    text-decoration: line-through;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: 400;
+    color: #646262;
+  }
+  
+  .tshirt2 {
+    width: 295px;
+    height: 295px;
+    margin-top: -308px;
+    margin-left: 433px;
+    border: 7px solid #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
+  }
+
+  .tshirt3 {
+    width: 295px;
+    height: 295px;
+    margin-top: -308px;
+    margin-left: 773px;
+    border: 7px solid #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
+  }
+
+  .tshirt4 {
+    width: 295px;
+    height: 295px;
+    margin-top: -308px;
+    margin-left: 1111px;
+    border: 7px solid #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0px 10px 30px rgb(157 157 157);
+  }
 
   .k1 {
     font-size: 20px;
