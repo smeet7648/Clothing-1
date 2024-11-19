@@ -779,7 +779,7 @@ body a {
     box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
-  .small {
+  .teens {
     width: 1519px;
     height: 518px;
     background-color: white;
@@ -787,7 +787,7 @@ body a {
   
   }
 
-  .kwear {
+  .teen {
     width: 295px;
     height: 295px;
     margin-top: 0px;
@@ -797,14 +797,14 @@ body a {
     box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
-  .ktss1 {
+  .ktsss1 {
     margin-top: 10px;
     margin-left: 10px;
     width: 277px;
     height: 278px;
   }
 
-  .infcs1 {
+  .infcss1 {
     margin-left: 10px;
     margin-top: 20px;
     font-size: 18px;
@@ -819,14 +819,14 @@ body a {
     margin-bottom: 50px;
   }
 
-  .infcs2 {
+  .infcss2 {
     margin-left: 10px;
     margin-top: 4px;
     font-size: 16px;
     color: #483333;
   }
 
-  .prsse1 {
+  .prsses1 {
     font-size: 30px;
     margin-left: 10px;
     margin-top: -10px;
@@ -835,7 +835,7 @@ body a {
     font-weight: 600;
   }
 
-  .ltsse1 {
+  .ltsses1 {
     text-decoration: line-through;
     font-size: 15px;
     margin-left: 10px;
@@ -844,7 +844,7 @@ body a {
     color: #646262;
   }
 
-  .kwear2 {
+  .teen2 {
     width: 295px;
     height: 295px;
     margin-top: -308px;
@@ -854,7 +854,7 @@ body a {
     box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
-  .kwear3 {
+  .teen3 {
     width: 295px;
     height: 295px;
     margin-top: -308px;
@@ -864,7 +864,7 @@ body a {
     box-shadow: 0px 10px 30px rgb(157 157 157);
   }
 
-  .kwear4 {
+  .teen4 {
     width: 295px;
     height: 295px;
     margin-top: -308px;
