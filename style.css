@@ -411,8 +411,8 @@ body a {
     width: 1519px;
     height: 518px;
     background-color: white;
-    margin-top: -21px;
-  }
+    margin-top: 158px;
+}
   .tshirt {
     width: 295px;
     height: 295px;
@@ -650,5 +650,10 @@ body a {
     100% {
       transform: translateX(0);
     }
+  }
+  .abc {
+    margin-left: 100px;
+    padding-top: 30px;
+    font-size: 30px;
   }
 }
