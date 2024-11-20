@@ -130,9 +130,17 @@ body a {
 
   .cartlogo {
     margin-top: 30px;
-    margin-left: 50px;
+    margin-left: 63px;
     width: 25px;
     height: 25px;
+    margin-bottom: 2px;
+  }
+
+  .acclogo {
+    margin-top: 30px;
+    margin-left: 38px;
+    width: 30px;
+    height: 30px;
   }
 
   .casual {
@@ -408,7 +416,7 @@ body a {
     margin-left: 5px;
     margin-top: -45px;
     font-size: 20px;
-}
+  }
 
 
   .list p:hover {
@@ -630,66 +638,32 @@ body a {
     /* position: relative; */
   }
 
-  .ps1 {
+
+  .ps1,
+  .ps2,
+  .ps3,
+  .ps4 {
+    display: none;
     width: 1519px;
     height: 620px;
-    margin-left: 0px;
+  }
+
+  .active {
     display: block;
   }
 
-  .ps2 {
-    width: 1519px;
-    height: 620px;
-    margin-left: 0px;
-    /* display: none; */
-  }
-
-  .ps3 {
-    width: 1519px;
-    height: 620px;
-    margin-left: 0px;
-    /* display: none; */
-  }
-
-  .ps4 {
-    width: 1519px;
-    height: 620px;
-    margin-left: 0px;
-    /* display: none; */
-  }
-
-  @keyframes slide {
-    0% {
-      transform: translateX(0);
-    }
-
-    25% {
-      transform: translateX(-100%);
-    }
-
-    50% {
-      transform: translateX(-200%);
-    }
-
-    75% {
-      transform: translateX(-300%);
-    }
-
-    100% {
-      transform: translateX(0);
-    }
-  }
   .abc {
     margin-left: 100px;
     padding-top: 30px;
     font-size: 30px;
   }
+
   .small {
     width: 1519px;
     height: 518px;
     background-color: white;
     margin-top: 25px;
-  
+
   }
 
   .kwear {
@@ -784,7 +758,7 @@ body a {
     height: 518px;
     background-color: white;
     margin-top: 25px;
-  
+
   }
 
   .teen {
@@ -873,4 +847,275 @@ body a {
     border-radius: 10px;
     box-shadow: 0px 10px 30px rgb(157 157 157);
   }
+  .main {
+    width: 1519px;
+    height: 490px;
+    margin-top: 10px;
+    background-color: rgb(26, 26, 26);
+    display: flex;
+}
+.main p{
+  color: white;
+}
+.main p:hover{
+  text-decoration: underline;
+}
+.d1 {
+    height: 420px;
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.foo1 {
+    color: yellow;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.foo2 {
+    color: yellow;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.p1 {
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.p2 {
+    margin-left: 50px;
+    margin-top: -15px;
+    font-size: 18px;
+}
+.p3 {
+    margin-left: 50px;
+    margin-top: -15px;
+    font-size: 18px;
+}
+.p4 {
+    margin-left: 50px;
+    margin-top: -15px;
+    font-size: 18px;
+}
+.img1 {
+    width: 25px;
+    height: 25px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.p10 {
+    margin-left: 80px;
+    margin-top: -28px;
+    font-size: 18px;
+}
+.img2 {
+    width: 25px;
+    height: 25px;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+.p11 {
+    margin-left: 80px;
+    margin-top: -30px;
+    font-size: 18px;
+}
+.d2 {
+    height: 420px;
+    width: 290px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.foo3 {
+    color: yellow;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 60px;
+}
+.p5 {
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+.p6 {
+    margin-left: 10px;
+    margin-top: -15px;
+    font-size: 18px;
+}
+.p7 {
+    margin-left: 10px;
+    margin-top: -15px;
+    font-size: 18px;
+}
+.foo4 {
+    color: yellow;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.img3 {
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.img4 {
+    width: 100px;
+    height: 30px;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.d3 {
+    height: 460px;
+    width: 330px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.foo5 {
+    color: yellow;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 60px;
+}
+.img5 {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.p8 {
+    margin-left: 50px;
+    margin-top: -32px;
+    font-size: 18px;
+}
+.img6 {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.p9 {
+    margin-left: 50px;
+    margin-top: -33px;
+    font-size: 18px;
+}
+.img7 {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.img8 {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.img9 {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.img10 {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.foo6 {
+    color: yellow;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.img11 {
+    width: 90px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.img12 {
+    width: 90px;
+    height: 50px;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.img13 {
+    width: 90px;
+    height: 50px;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.img14 {
+    width: 90px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 13px;
+}
+.img15 {
+    width: 100px;
+    height: 60px;
+    margin-left: -3px;
+    margin-top: -12px;
+    /* padding-top: 10px; */
+    margin-bottom: 8px;
+}
+.img16 {
+    width: 98px;
+    height: 55px;
+    margin-left: -10px;
+    margin-top: 0px;
+    margin-bottom: 11px;
+}
+.d4 {
+  height: 420px;
+  width: 410px;
+  margin-left: 60px;
+  margin-top: 50px;
+}
+.foo7 {
+  color: yellow;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.button {
+  background-color: yellow;
+  border-radius: 5px;
+  border: 1px solid yellow;
+  margin-left: 10px;
+  margin-top: 40px;
+  width: 300px;
+  height: 40px;
+}
+.sub1 {
+  margin-left: 197px;
+  margin-top: 7px;
+  font-size: 19px;
+  font-weight: bolder;
+}    
+.button:hover{
+  background-color: orange;
+}
+.email1 {
+  background-color: rgb(26, 26, 26);
+  border: none;
+  width: 190px;
+  height: 39px;
+  margin-left: 10px;
+  margin-top: -42px;
+  position: absolute;
+  color: white;
+  font-size: 18px;
+}
+.email1:focus{
+  outline: none;
+}
+.email1:placeholder-shown{
+  color: rgb(255, 255, 255);
+  margin-left: 10px;
+}
 }
