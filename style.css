@@ -10452,3 +10452,45 @@ body a {
     height: 2373px;
   }
 }
+@media screen and (max-width:366px) {
+  .opt {
+    margin-left: -412px;
+    margin-top: 40px;
+}
+.casual {
+  width: 1519px;
+  height: 668px;
+  background-color: white;
+  margin-top: -21px;
+  margin-left: -60px;
+}
+.diwali {
+  width: 1519px;
+  height: 518px;
+  background-color: white;
+  margin-top: 2009px;
+  margin-left: -60px;
+}
+.home {
+  width: 1519px;
+  height: 518px;
+  background-color: white;
+  margin-top: 2409px;
+  margin-left: -60px;
+}
+.small {
+  width: 1519px;
+  height: 518px;
+  background-color: white;
+  margin-top: 2019px;
+  margin-left: -60px;
+}
+.teens {
+  width: 1519px;
+  height: 518px;
+  background-color: white;
+  margin-top: 2019px;
+  margin-left: -60px;
+  margin-bottom: 160px;
+}
+}

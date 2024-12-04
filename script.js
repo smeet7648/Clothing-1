@@ -155,3 +155,5 @@ document.getElementById("prev23").addEventListener("click", function () {
   c.style.marginLeft = "1035px";
   d.style.display = "none";
 });
+
+
