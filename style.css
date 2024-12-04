@@ -10495,10 +10495,7 @@ body a {
 }
 }
 @media screen and (max-width:356px) {
-  .opt {
-    margin-left: -412px;
-    margin-top: 40px;
-}
+
 .casual {
   width: 1519px;
   height: 668px;
@@ -10609,5 +10606,14 @@ body a {
   margin-top: -725px;
   margin-left: 790px;
 }
-
+.s1 {
+  margin-left: -144px;
+  margin-top: 36px;
+  width: 600px;
+  padding-left: 0px;
+}
+.opt {
+  margin-left: -432px;
+  margin-top: 40px;
+}
 }
