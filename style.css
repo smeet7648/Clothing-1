@@ -10452,479 +10452,255 @@ body a {
     height: 2373px;
   }
 }
-@media screen and (max-width:366px) {
+
+@media screen and (max-width: 366px) {
   .opt {
     margin-left: -412px;
     margin-top: 40px;
-}
-.casual {
-  width: 1519px;
-  height: 668px;
-  background-color: white;
-  margin-top: -21px;
-  margin-left: -60px;
-}
-.diwali {
-  width: 1519px;
-  height: 518px;
-  background-color: white;
-  margin-top: 2009px;
-  margin-left: -60px;
-}
-.home {
-  width: 1519px;
-  height: 518px;
-  background-color: white;
-  margin-top: 2409px;
-  margin-left: -60px;
-}
-.small {
-  width: 1519px;
-  height: 518px;
-  background-color: white;
-  margin-top: 2019px;
-  margin-left: -60px;
-}
-.teens {
-  width: 1519px;
-  height: 518px;
-  background-color: white;
-  margin-top: 2019px;
-  margin-left: -60px;
-  margin-bottom: 160px;
-}
-.shirt {
-  width: 665px;
-  height: 665px;
-  margin-top: 50px;
-  margin-left: 72px;
-}
-.sh1 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.shirt2 {
-  width: 665px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.shirt3 {
-  width: 665px;
-  height: 665px;
-  margin-top: 590px;
-  margin-left: 72px;
-}
-.shirt4 {
-  width: 655px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.sh2 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 639px;
-}
-.sh3 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.sh4 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.kurta {
-  width: 665px;
-  height: 665px;
-  margin-top: 50px;
-  margin-left: 72px;
-}
-.kt1 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.kurta2 {
-  width: 665px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.kurta3 {
-  width: 665px;
-  height: 665px;
-  margin-top: 590px;
-  margin-left: 72px;
-}
-.kurta4 {
-  width: 655px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.tshirt {
-  width: 665px;
-  height: 665px;
-  margin-top: 50px;
-  margin-left: 72px;
-}
-.kts1 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.tshirt2 {
-  width: 665px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.tshirt3 {
-  width: 665px;
-  height: 665px;
-  margin-top: 590px;
-  margin-left: 72px;
-}
-.tshirt4 {
-  width: 655px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.kwear {
-  width: 665px;
-  height: 665px;
-  margin-top: 50px;
-  margin-left: 72px;
-}
-.ktss1 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.kwear2 {
-  width: 665px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.kwear3 {
-  width: 665px;
-  height: 665px;
-  margin-top: 590px;
-  margin-left: 72px;
-}
-.kwear4 {
-  width: 655px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.teen {
-  width: 665px;
-  height: 665px;
-  margin-top: 50px;
-  margin-left: 72px;
-}
-.ktsss1 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.teen2 {
-  width: 665px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.teen3 {
-  width: 665px;
-  height: 665px;
-  margin-top: 590px;
-  margin-left: 72px;
-}
-.teen4 {
-  width: 655px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.carts {
-  margin-top: 7px;
-  margin-left: 8px;
-  width: 320px;
-  height: 111px;
-  border-radius: 15px;
-  font-size: 38px;
-}
-.lop1 {
-  font-size: 50px;
-  margin-left: -320px;
-  margin-top: -1360px;
-}
-}
-@media screen and (max-width:362px) {
+  }
+  .lop2 {
+    font-size: 50px;
+    margin-left: -320px;
+    margin-top: 113px;
+  }
+
   .casual {
     width: 1519px;
     height: 668px;
     background-color: white;
     margin-top: -21px;
-    margin-left: -40px;
+    margin-left: -60px;
   }
+
   .diwali {
     width: 1519px;
     height: 518px;
     background-color: white;
     margin-top: 2009px;
-    margin-left: -40px;
+    margin-left: -60px;
   }
+
   .home {
     width: 1519px;
     height: 518px;
     background-color: white;
     margin-top: 2409px;
-    margin-left: -40px;
+    margin-left: -60px;
   }
+
   .small {
     width: 1519px;
     height: 518px;
     background-color: white;
     margin-top: 2019px;
-    margin-left: -40px;
+    margin-left: -60px;
   }
+
   .teens {
     width: 1519px;
     height: 518px;
     background-color: white;
     margin-top: 2019px;
-    margin-left: -40px;
+    margin-left: -60px;
     margin-bottom: 160px;
   }
-  .acclogo {
-    margin-top: 12px;
-    margin-left: 19px;
-    width: 75px;
-    height: 75px;
-    margin-bottom: 2px;
-  }
-  .cartlogo {
-    margin-top: 28px;
-    margin-left: 34px;
-    width: 75px;
-    height: 75px;
-    margin-bottom: 6px;
-  }
-  .s1 {
-    margin-left: -144px;
-    margin-top: 26px;
-    width: 600px;
-    padding-left: 0px;
-}
-.title1 {
-  font-size: 50px;
-  margin-left: 140px;
-  margin-top: -77px;
-}
-  .opt {
-    margin-left: -432px;
-    margin-top: 40px;
-  }
-  .collect {
-    margin-left: 70px;
-    padding-top: 30px;
-    font-size: 70px;
-  }
-  .open {
-    margin-left: 70px;
-    margin-top: -50px;
-    font-size: 55px;
-  }
-  .abc {
-    margin-left: -70px;
-    padding-top: 130px;
-    font-size: 30px;
-    margin-bottom: 40px;
-  }
+
   .shirt {
     width: 665px;
     height: 665px;
     margin-top: 50px;
     margin-left: 72px;
   }
+
   .sh1 {
     margin-top: 10px;
     margin-left: 10px;
     width: 648px;
     height: 649px;
   }
+
   .shirt2 {
     width: 665px;
     height: 665px;
     margin-top: -675px;
     margin-left: 760px;
   }
+
   .shirt3 {
     width: 665px;
     height: 665px;
     margin-top: 590px;
     margin-left: 72px;
   }
+
   .shirt4 {
     width: 655px;
     height: 665px;
     margin-top: -675px;
     margin-left: 760px;
   }
+
   .sh2 {
     margin-top: 10px;
     margin-left: 10px;
     width: 648px;
     height: 639px;
   }
+
   .sh3 {
     margin-top: 10px;
     margin-left: 10px;
     width: 648px;
     height: 649px;
   }
+
   .sh4 {
     margin-top: 10px;
     margin-left: 10px;
     width: 648px;
     height: 649px;
   }
+
   .kurta {
     width: 665px;
     height: 665px;
     margin-top: 50px;
     margin-left: 72px;
   }
+
   .kt1 {
     margin-top: 10px;
     margin-left: 10px;
     width: 648px;
     height: 649px;
   }
+
   .kurta2 {
     width: 665px;
     height: 665px;
     margin-top: -675px;
     margin-left: 760px;
   }
+
   .kurta3 {
     width: 665px;
     height: 665px;
     margin-top: 590px;
     margin-left: 72px;
   }
+
   .kurta4 {
     width: 655px;
     height: 665px;
     margin-top: -675px;
     margin-left: 760px;
   }
+
   .tshirt {
     width: 665px;
     height: 665px;
     margin-top: 50px;
     margin-left: 72px;
   }
+
   .kts1 {
     margin-top: 10px;
     margin-left: 10px;
     width: 648px;
     height: 649px;
   }
+
   .tshirt2 {
     width: 665px;
     height: 665px;
     margin-top: -675px;
     margin-left: 760px;
   }
+
   .tshirt3 {
     width: 665px;
     height: 665px;
     margin-top: 590px;
     margin-left: 72px;
   }
+
   .tshirt4 {
     width: 655px;
     height: 665px;
     margin-top: -675px;
     margin-left: 760px;
   }
+
   .kwear {
     width: 665px;
     height: 665px;
     margin-top: 50px;
     margin-left: 72px;
   }
+
   .ktss1 {
     margin-top: 10px;
     margin-left: 10px;
     width: 648px;
     height: 649px;
   }
+
   .kwear2 {
     width: 665px;
     height: 665px;
     margin-top: -675px;
     margin-left: 760px;
   }
+
   .kwear3 {
     width: 665px;
     height: 665px;
     margin-top: 590px;
     margin-left: 72px;
   }
+
   .kwear4 {
     width: 655px;
     height: 665px;
     margin-top: -675px;
     margin-left: 760px;
   }
+
   .teen {
     width: 665px;
     height: 665px;
     margin-top: 50px;
     margin-left: 72px;
   }
+
   .ktsss1 {
     margin-top: 10px;
     margin-left: 10px;
     width: 648px;
     height: 649px;
   }
+
   .teen2 {
     width: 665px;
     height: 665px;
     margin-top: -675px;
     margin-left: 760px;
   }
+
   .teen3 {
     width: 665px;
     height: 665px;
     margin-top: 590px;
     margin-left: 72px;
   }
+
   .teen4 {
     width: 655px;
     height: 665px;
     margin-top: -675px;
     margin-left: 760px;
   }
+
   .carts {
     margin-top: 7px;
     margin-left: 8px;
@@ -10933,264 +10709,607 @@ body a {
     border-radius: 15px;
     font-size: 38px;
   }
+}
+
+@media screen and (max-width:362px) {
+  .casual {
+    width: 1519px;
+    height: 668px;
+    background-color: white;
+    margin-top: -21px;
+    margin-left: -40px;
+  }
+
+  .diwali {
+    width: 1519px;
+    height: 518px;
+    background-color: white;
+    margin-top: 2009px;
+    margin-left: -40px;
+  }
+
+  .home {
+    width: 1519px;
+    height: 518px;
+    background-color: white;
+    margin-top: 2409px;
+    margin-left: -40px;
+  }
+
+  .small {
+    width: 1519px;
+    height: 518px;
+    background-color: white;
+    margin-top: 2019px;
+    margin-left: -40px;
+  }
+
+  .teens {
+    width: 1519px;
+    height: 518px;
+    background-color: white;
+    margin-top: 2019px;
+    margin-left: -40px;
+    margin-bottom: 160px;
+  }
+
+  .acclogo {
+    margin-top: 12px;
+    margin-left: 19px;
+    width: 75px;
+    height: 75px;
+    margin-bottom: 2px;
+  }
+
+  .cartlogo {
+    margin-top: 28px;
+    margin-left: 34px;
+    width: 75px;
+    height: 75px;
+    margin-bottom: 6px;
+  }
+
+  .s1 {
+    margin-left: -144px;
+    margin-top: 26px;
+    width: 600px;
+    padding-left: 0px;
+  }
+
+  .title1 {
+    font-size: 50px;
+    margin-left: 140px;
+    margin-top: -77px;
+  }
+
+  .opt {
+    margin-left: -432px;
+    margin-top: 40px;
+  }
+
+  .collect {
+    margin-left: 70px;
+    padding-top: 30px;
+    font-size: 70px;
+  }
+
+  .open {
+    margin-left: 70px;
+    margin-top: -50px;
+    font-size: 55px;
+  }
+
+  .abc {
+    margin-left: -70px;
+    padding-top: 130px;
+    font-size: 30px;
+    margin-bottom: 40px;
+  }
+
+  .shirt {
+    width: 665px;
+    height: 665px;
+    margin-top: 50px;
+    margin-left: 72px;
+  }
+
+  .sh1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .shirt2 {
+    width: 665px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .shirt3 {
+    width: 665px;
+    height: 665px;
+    margin-top: 590px;
+    margin-left: 72px;
+  }
+
+  .shirt4 {
+    width: 655px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .sh2 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 639px;
+  }
+
+  .sh3 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .sh4 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .kurta {
+    width: 665px;
+    height: 665px;
+    margin-top: 50px;
+    margin-left: 72px;
+  }
+
+  .kt1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .kurta2 {
+    width: 665px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .kurta3 {
+    width: 665px;
+    height: 665px;
+    margin-top: 590px;
+    margin-left: 72px;
+  }
+
+  .kurta4 {
+    width: 655px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .tshirt {
+    width: 665px;
+    height: 665px;
+    margin-top: 50px;
+    margin-left: 72px;
+  }
+
+  .kts1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .tshirt2 {
+    width: 665px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .tshirt3 {
+    width: 665px;
+    height: 665px;
+    margin-top: 590px;
+    margin-left: 72px;
+  }
+
+  .tshirt4 {
+    width: 655px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .kwear {
+    width: 665px;
+    height: 665px;
+    margin-top: 50px;
+    margin-left: 72px;
+  }
+
+  .ktss1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .kwear2 {
+    width: 665px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .kwear3 {
+    width: 665px;
+    height: 665px;
+    margin-top: 590px;
+    margin-left: 72px;
+  }
+
+  .kwear4 {
+    width: 655px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .teen {
+    width: 665px;
+    height: 665px;
+    margin-top: 50px;
+    margin-left: 72px;
+  }
+
+  .ktsss1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .teen2 {
+    width: 665px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .teen3 {
+    width: 665px;
+    height: 665px;
+    margin-top: 590px;
+    margin-left: 72px;
+  }
+
+  .teen4 {
+    width: 655px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .carts {
+    margin-top: 7px;
+    margin-left: 8px;
+    width: 320px;
+    height: 111px;
+    border-radius: 15px;
+    font-size: 38px;
+  }
+
   .lop1 {
     font-size: 50px;
     margin-left: -320px;
     margin-top: -1360px;
+  }
 }
-}
+
 @media screen and (max-width:356px) {
 
-.casual {
-  width: 1519px;
-  height: 668px;
-  background-color: white;
-  margin-top: -21px;
-  margin-left: -60px;
-}
-.diwali {
-  width: 1519px;
-  height: 518px;
-  background-color: white;
-  margin-top: 2009px;
-  margin-left: -60px;
-}
-.home {
-  width: 1519px;
-  height: 518px;
-  background-color: white;
-  margin-top: 2409px;
-  margin-left: -60px;
-}
-.small {
-  width: 1519px;
-  height: 518px;
-  background-color: white;
-  margin-top: 2019px;
-  margin-left: -60px;
-}
-.teens {
-  width: 1519px;
-  height: 518px;
-  background-color: white;
-  margin-top: 2019px;
-  margin-left: -60px;
-  margin-bottom: 160px;
-}
-.acclogo {
-  margin-top: 12px;
-  margin-left: 19px;
-  width: 75px;
-  height: 75px;
-  margin-bottom: 2px;
-}
-.cartlogo {
-  margin-top: 28px;
-  margin-left: 34px;
-  width: 75px;
-  height: 75px;
-  margin-bottom: 6px;
-}
-.s1 {
-  margin-left: -144px;
-  margin-top: 36px;
-  width: 600px;
-  padding-left: 0px;
-}
-.opt {
-  margin-left: -432px;
-  margin-top: 40px;
-}
-.collect {
-  margin-left: 70px;
-  padding-top: 30px;
-  font-size: 70px;
-}
-.open {
-  margin-left: 70px;
-  margin-top: -50px;
-  font-size: 55px;
-}
-.abc {
-  margin-left: -70px;
-  padding-top: 130px;
-  font-size: 30px;
-  margin-bottom: 40px;
-}
-.shirt {
-  width: 665px;
-  height: 665px;
-  margin-top: 50px;
-  margin-left: 72px;
-}
-.sh1 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.shirt2 {
-  width: 665px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.shirt3 {
-  width: 665px;
-  height: 665px;
-  margin-top: 590px;
-  margin-left: 72px;
-}
-.shirt4 {
-  width: 655px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 750px;
-}
-.sh2 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 639px;
-}
-.sh3 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.sh4 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.kurta {
-  width: 665px;
-  height: 665px;
-  margin-top: 50px;
-  margin-left: 72px;
-}
-.kt1 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.kurta2 {
-  width: 665px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.kurta3 {
-  width: 665px;
-  height: 665px;
-  margin-top: 590px;
-  margin-left: 72px;
-}
-.kurta4 {
-  width: 655px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 750px;
-}
-.tshirt {
-  width: 665px;
-  height: 665px;
-  margin-top: 50px;
-  margin-left: 72px;
-}
-.kts1 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.tshirt2 {
-  width: 665px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.tshirt3 {
-  width: 665px;
-  height: 665px;
-  margin-top: 590px;
-  margin-left: 72px;
-}
-.tshirt4 {
-  width: 655px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 750px;
-}
-.kwear {
-  width: 665px;
-  height: 665px;
-  margin-top: 50px;
-  margin-left: 72px;
-}
-.ktss1 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.kwear2 {
-  width: 665px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.kwear3 {
-  width: 665px;
-  height: 665px;
-  margin-top: 590px;
-  margin-left: 72px;
-}
-.kwear4 {
-  width: 655px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 750px;
-}
-.teen {
-  width: 665px;
-  height: 665px;
-  margin-top: 50px;
-  margin-left: 72px;
-}
-.ktsss1 {
-  margin-top: 10px;
-  margin-left: 10px;
-  width: 648px;
-  height: 649px;
-}
-.teen2 {
-  width: 665px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 760px;
-}
-.teen3 {
-  width: 665px;
-  height: 665px;
-  margin-top: 590px;
-  margin-left: 72px;
-}
-.teen4 {
-  width: 655px;
-  height: 665px;
-  margin-top: -675px;
-  margin-left: 750px;
-}
-.carts {
-  margin-top: 7px;
-  margin-left: 8px;
-  width: 320px;
-  height: 111px;
-  border-radius: 15px;
-  font-size: 38px;
-}
+  .casual {
+    width: 1519px;
+    height: 668px;
+    background-color: white;
+    margin-top: -21px;
+    margin-left: -60px;
+  }
+
+  .diwali {
+    width: 1519px;
+    height: 518px;
+    background-color: white;
+    margin-top: 2009px;
+    margin-left: -60px;
+  }
+
+  .home {
+    width: 1519px;
+    height: 518px;
+    background-color: white;
+    margin-top: 2409px;
+    margin-left: -60px;
+  }
+
+  .small {
+    width: 1519px;
+    height: 518px;
+    background-color: white;
+    margin-top: 2019px;
+    margin-left: -60px;
+  }
+
+  .teens {
+    width: 1519px;
+    height: 518px;
+    background-color: white;
+    margin-top: 2019px;
+    margin-left: -60px;
+    margin-bottom: 160px;
+  }
+
+  .acclogo {
+    margin-top: 12px;
+    margin-left: 19px;
+    width: 75px;
+    height: 75px;
+    margin-bottom: 2px;
+  }
+
+  .cartlogo {
+    margin-top: 28px;
+    margin-left: 34px;
+    width: 75px;
+    height: 75px;
+    margin-bottom: 6px;
+  }
+
+  .s1 {
+    margin-left: -144px;
+    margin-top: 36px;
+    width: 600px;
+    padding-left: 0px;
+  }
+
+  .opt {
+    margin-left: -432px;
+    margin-top: 40px;
+  }
+
+  .collect {
+    margin-left: 70px;
+    padding-top: 30px;
+    font-size: 70px;
+  }
+
+  .open {
+    margin-left: 70px;
+    margin-top: -50px;
+    font-size: 55px;
+  }
+
+  .abc {
+    margin-left: -70px;
+    padding-top: 130px;
+    font-size: 30px;
+    margin-bottom: 40px;
+  }
+
+  .shirt {
+    width: 665px;
+    height: 665px;
+    margin-top: 50px;
+    margin-left: 72px;
+  }
+
+  .sh1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .shirt2 {
+    width: 665px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .shirt3 {
+    width: 665px;
+    height: 665px;
+    margin-top: 590px;
+    margin-left: 72px;
+  }
+
+  .shirt4 {
+    width: 655px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 750px;
+  }
+
+  .sh2 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 639px;
+  }
+
+  .sh3 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .sh4 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .kurta {
+    width: 665px;
+    height: 665px;
+    margin-top: 50px;
+    margin-left: 72px;
+  }
+
+  .kt1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .kurta2 {
+    width: 665px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .kurta3 {
+    width: 665px;
+    height: 665px;
+    margin-top: 590px;
+    margin-left: 72px;
+  }
+
+  .kurta4 {
+    width: 655px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 750px;
+  }
+
+  .tshirt {
+    width: 665px;
+    height: 665px;
+    margin-top: 50px;
+    margin-left: 72px;
+  }
+
+  .kts1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .tshirt2 {
+    width: 665px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .tshirt3 {
+    width: 665px;
+    height: 665px;
+    margin-top: 590px;
+    margin-left: 72px;
+  }
+
+  .tshirt4 {
+    width: 655px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 750px;
+  }
+
+  .kwear {
+    width: 665px;
+    height: 665px;
+    margin-top: 50px;
+    margin-left: 72px;
+  }
+
+  .ktss1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .kwear2 {
+    width: 665px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .kwear3 {
+    width: 665px;
+    height: 665px;
+    margin-top: 590px;
+    margin-left: 72px;
+  }
+
+  .kwear4 {
+    width: 655px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 750px;
+  }
+
+  .teen {
+    width: 665px;
+    height: 665px;
+    margin-top: 50px;
+    margin-left: 72px;
+  }
+
+  .ktsss1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 648px;
+    height: 649px;
+  }
+
+  .teen2 {
+    width: 665px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 760px;
+  }
+
+  .teen3 {
+    width: 665px;
+    height: 665px;
+    margin-top: 590px;
+    margin-left: 72px;
+  }
+
+  .teen4 {
+    width: 655px;
+    height: 665px;
+    margin-top: -675px;
+    margin-left: 750px;
+  }
+
+  .carts {
+    margin-top: 7px;
+    margin-left: 8px;
+    width: 320px;
+    height: 111px;
+    border-radius: 15px;
+    font-size: 38px;
+  }
 }
