@@ -10546,66 +10546,6 @@ body a {
   height: 75px;
   margin-bottom: 6px;
 }
-.shirt2 {
-  width: 715px;
-  height: 715px;
-  margin-top: -725px;
-  margin-left: 790px;
-}
-.shirt4 {
-  width: 715px;
-  height: 715px;
-  margin-top: -725px;
-  margin-left: 790px;
-}
-.kurta2 {
-  width: 715px;
-  height: 715px;
-  margin-top: -725px;
-  margin-left: 790px;
-}
-.kurta4 {
-  width: 715px;
-  height: 715px;
-  margin-top: -725px;
-  margin-left: 790px;
-}
-.tshirt2 {
-  width: 715px;
-  height: 715px;
-  margin-top: -725px;
-  margin-left: 790px;
-}
-.tshirt4 {
-  width: 715px;
-  height: 715px;
-  margin-top: -725px;
-  margin-left: 790px;
-}
-.kwear2 {
-  width: 715px;
-  height: 715px;
-  margin-top: -725px;
-  margin-left: 790px;
-}
-.kwear4 {
-  width: 715px;
-  height: 715px;
-  margin-top: -725px;
-  margin-left: 790px;
-}
-.teen2 {
-  width: 715px;
-  height: 715px;
-  margin-top: -725px;
-  margin-left: 790px;
-}
-.teen4 {
-  width: 715px;
-  height: 715px;
-  margin-top: -725px;
-  margin-left: 790px;
-}
 .s1 {
   margin-left: -144px;
   margin-top: 36px;
@@ -10615,5 +10555,197 @@ body a {
 .opt {
   margin-left: -432px;
   margin-top: 40px;
+}
+.collect {
+  margin-left: 70px;
+  padding-top: 30px;
+  font-size: 70px;
+}
+.open {
+  margin-left: 70px;
+  margin-top: -50px;
+  font-size: 55px;
+}
+.abc {
+  margin-left: -70px;
+  padding-top: 130px;
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+.shirt {
+  width: 665px;
+  height: 665px;
+  margin-top: 50px;
+  margin-left: 72px;
+}
+.sh1 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 648px;
+  height: 649px;
+}
+.shirt2 {
+  width: 665px;
+  height: 665px;
+  margin-top: -675px;
+  margin-left: 760px;
+}
+.shirt3 {
+  width: 665px;
+  height: 665px;
+  margin-top: 590px;
+  margin-left: 72px;
+}
+.shirt4 {
+  width: 655px;
+  height: 665px;
+  margin-top: -675px;
+  margin-left: 750px;
+}
+.sh2 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 648px;
+  height: 639px;
+}
+.sh3 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 648px;
+  height: 649px;
+}
+.sh4 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 648px;
+  height: 649px;
+}
+.kurta {
+  width: 665px;
+  height: 665px;
+  margin-top: 50px;
+  margin-left: 72px;
+}
+.kt1 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 648px;
+  height: 649px;
+}
+.kurta2 {
+  width: 665px;
+  height: 665px;
+  margin-top: -675px;
+  margin-left: 760px;
+}
+.kurta3 {
+  width: 665px;
+  height: 665px;
+  margin-top: 590px;
+  margin-left: 72px;
+}
+.kurta4 {
+  width: 655px;
+  height: 665px;
+  margin-top: -675px;
+  margin-left: 750px;
+}
+.tshirt {
+  width: 665px;
+  height: 665px;
+  margin-top: 50px;
+  margin-left: 72px;
+}
+.kts1 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 648px;
+  height: 649px;
+}
+.tshirt2 {
+  width: 665px;
+  height: 665px;
+  margin-top: -675px;
+  margin-left: 760px;
+}
+.tshirt3 {
+  width: 665px;
+  height: 665px;
+  margin-top: 590px;
+  margin-left: 72px;
+}
+.tshirt4 {
+  width: 655px;
+  height: 665px;
+  margin-top: -675px;
+  margin-left: 750px;
+}
+.kwear {
+  width: 665px;
+  height: 665px;
+  margin-top: 50px;
+  margin-left: 72px;
+}
+.ktss1 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 648px;
+  height: 649px;
+}
+.kwear2 {
+  width: 665px;
+  height: 665px;
+  margin-top: -675px;
+  margin-left: 760px;
+}
+.kwear3 {
+  width: 665px;
+  height: 665px;
+  margin-top: 590px;
+  margin-left: 72px;
+}
+.kwear4 {
+  width: 655px;
+  height: 665px;
+  margin-top: -675px;
+  margin-left: 750px;
+}
+.teen {
+  width: 665px;
+  height: 665px;
+  margin-top: 50px;
+  margin-left: 72px;
+}
+.ktsss1 {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 648px;
+  height: 649px;
+}
+.teen2 {
+  width: 665px;
+  height: 665px;
+  margin-top: -675px;
+  margin-left: 760px;
+}
+.teen3 {
+  width: 665px;
+  height: 665px;
+  margin-top: 590px;
+  margin-left: 72px;
+}
+.teen4 {
+  width: 655px;
+  height: 665px;
+  margin-top: -675px;
+  margin-left: 750px;
+}
+.carts {
+  margin-top: 7px;
+  margin-left: 8px;
+  width: 320px;
+  height: 111px;
+  border-radius: 15px;
+  font-size: 38px;
 }
 }
